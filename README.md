@@ -28,12 +28,6 @@
   <!-- Inteligência Artificial -->
   <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="Inteligência Artificial" alt="IA"/>
   
-  <!-- Big Data (corrigido) -->
-  <img src="https://img.icons8.com/external-flat-icons-vectorslab/68/external-Big-Data-big-data-flat-icons-vectorslab.png" title="Big Data" alt="Big Data" width="50" height="50"/>
-  
-  <!-- Power Automate (corrigido) -->
-  <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" title="Power Automate" alt="Power Automate"/>
-  
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </p>
