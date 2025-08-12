@@ -16,12 +16,25 @@
 ## 🛠️ Principais Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL / SQL" alt="PostgreSQL" width="50" height="50"/>
+  <!-- SQL genérico -->
+  <img src="https://img.icons8.com/ios-filled/50/sql.png" title="SQL" alt="SQL" width="50" height="50"/>
+  
+  <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI"/>
+  
+  <!-- Excel -->
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel"/>
+  
+  <!-- Inteligência Artificial -->
   <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="Inteligência Artificial" alt="IA"/>
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-big-data-data-analytics-flaticons-flat-flat-icons.png" title="Big Data" alt="Big Data" width="50" height="50"/>
+  
+  <!-- Big Data (corrigido) -->
+  <img src="https://img.icons8.com/external-flat-icons-vectorslab/68/external-Big-Data-big-data-flat-icons-vectorslab.png" title="Big Data" alt="Big Data" width="50" height="50"/>
+  
+  <!-- Power Automate (corrigido) -->
   <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" title="Power Automate" alt="Power Automate"/>
+  
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </p>
 
