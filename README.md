@@ -42,11 +42,11 @@
 
 🏅 **Certificações**  
 - Microsoft Power BI  
-- Excel Avançado  
-- SQL Avançado
-- Machine Learning & Big Data  
-- Lean Six Sigma Yellow Belt  
-- Estratégia de Dados  
+- Microsoft Excel  
+- SQL - Data Analytics  
+- Machine Learning  
+- Big Data e Estratégia de Dados
+- Lean Six Sigma Yellow Belt 
 
 ---
 
