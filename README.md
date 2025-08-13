@@ -29,4 +29,45 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Stack-SQL%20|%20Power%20BI%20|%20Excel%20|%20IA%20|%20Python-0b7ea4?style=flat-s
+  <img src="https://img.shields.io/badge/Stack-SQL%20|%20Power%20BI%20|%20Excel%20|%20IA%20|%20Python-0b7ea4?style=flat-square" alt="Stack"/>
+</p>
+
+---
+
+## 🎓 Formação e Certificações
+🎓 **Formação Acadêmica**  
+- Graduação em Engenharia de Produção — Universidade Positivo  
+- Pós-graduação em Análise de Dados — PUCPR
+
+🏅 **Certificações**  
+- Microsoft Power BI  
+- Microsoft Excel  
+- SQL para Análise de Dados  
+- Machine Learning  
+- Big Data e Estratégia de Dados  
+- Lean Six Sigma Yellow Belt
+
+---
+
+## 📌 Projetos (em breve)
+> Esta seção trará meus principais projetos em análise de dados, destacando aplicações práticas de SQL, Power BI, Excel e Python para resolver problemas reais e gerar insights.
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoVinicius2&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVinicius2&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://linkedin.com/in/thiagovinicius1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thiagoo_2662@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
