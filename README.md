@@ -19,6 +19,18 @@
 
 ---
 
+## 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://linkedin.com/in/thiagovinicius1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thiagoo_2662@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Principais Ferramentas
 <p align="left">
   <img src="https://img.icons8.com/ios-filled/50/sql.png" title="SQL" alt="SQL" width="44" height="44"/>
@@ -29,11 +41,6 @@
 </p>
 
 ---
-
-## 🎓 Formação e Certificações
-🎓 **Formação Acadêmica**  
-- Graduação em Engenharia de Produção — Universidade Positivo  
-- Pós-graduação em Análise de Dados — PUCPR
 
 🏅 **Certificações**  
 - Microsoft Power BI  
@@ -56,14 +63,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVinicius2&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
-
-## 📫 Vamos nos conectar?
-<p align="left">
-  <a href="https://linkedin.com/in/thiagovinicius1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thiagoo_2662@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
