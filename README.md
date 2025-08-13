@@ -28,10 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="44" height="44"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Stack-SQL%20|%20Power%20BI%20|%20Excel%20|%20IA%20|%20Python-0b7ea4?style=flat-square" alt="Stack"/>
-</p>
-
 ---
 
 ## 🎓 Formação e Certificações
