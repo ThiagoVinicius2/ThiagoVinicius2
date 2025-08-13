@@ -2,6 +2,13 @@
 <h1 align="center">👋 Olá! Eu sou o Thiago</h1>
 <h3 align="center">📊 Analista de Dados | Transformando dados em decisões estratégicas</h3>
 
+<p align="center">
+  <!-- Faixa de badges no estilo "ggplot2": conciso e centralizado -->
+  <a href="https://github.com/ThiagoVinicius2?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/ThiagoVinicius2?style=flat-square&label=seguidores"/></a>
+  <a href="https://github.com/ThiagoVinicius2"><img alt="Stars" src="https://img.shields.io/github/stars/ThiagoVinicius2?style=flat-square&label=stars"/></a>
+  <img alt="Visitas" src="https://komarev.com/ghpvc/?username=ThiagoVinicius2&style=flat-square&label=visitas"/>
+</p>
+
 ---
 
 ## 🚀 Sobre mim
@@ -14,22 +21,22 @@
 ---
 
 ## 🛠️ Principais Ferramentas
-
 <p align="left">
   <!-- SQL genérico -->
-  <img src="https://img.icons8.com/ios-filled/50/sql.png" title="SQL" alt="SQL" width="50" height="50"/>
-  
+  <img src="https://img.icons8.com/ios-filled/50/sql.png" title="SQL" alt="SQL" width="44" height="44"/>
   <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI"/>
-  
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="44" height="44"/>
   <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel"/>
-  
-  <!-- Inteligência Artificial -->
-  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="Inteligência Artificial" alt="IA"/>
-  
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="44" height="44"/>
+  <!-- IA -->
+  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="Inteligência Artificial" alt="IA" width="44" height="44"/>
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="44" height="44"/>
+</p>
+
+<!-- Linha de badges minimalista (opcional, no estilo “tech badges” do ggplot2) -->
+<p>
+  <img src="https://img.shields.io/badge/Stack-SQL%20|%20Power%20BI%20|%20Excel%20|%20IA%20|%20Python-0b7ea4?style=flat-square" alt="Stack"/>
 </p>
 
 ---
@@ -38,15 +45,15 @@
 
 🎓 **Formação Acadêmica**  
 - Graduação em Engenharia de Produção — Universidade Positivo  
-- Pós-graduação em Análise de Dados — PUCPR 
+- Pós-graduação em Análise de Dados — PUCPR
 
 🏅 **Certificações**  
 - Microsoft Power BI  
 - Microsoft Excel  
-- SQL - Data Analytics  
+- SQL para Análise de Dados  
 - Machine Learning  
-- Big Data e Estratégia de Dados
-- Lean Six Sigma Yellow Belt 
+- Big Data e Estratégia de Dados  
+- Lean Six Sigma Yellow Belt
 
 ---
 
